@@ -1,7 +1,9 @@
 {
-  "name": "my-project",
-  "private": true,
-  "version": "0.0.0",
+  "name": "odontogram-schema",
+  "private": false,
+  "version": "1.0.0",
+  "author": "Nazaretyan Mikhail (Pluggedin.life)",
+  "description": "A simple web component that allows to manage and display a human odontogram",
   "type": "module",
   "scripts": {
     "dev": "vite",

@@ -20,6 +20,28 @@ export default {
           name: '1',
         },
       ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
+        },
+      ],
     },
     {
       id: 1,
@@ -37,6 +59,28 @@ export default {
         {
           id: 0,
           name: '1',
+        },
+      ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
         },
       ],
     },
@@ -58,6 +102,28 @@ export default {
           name: '1',
         },
       ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
+        },
+      ],
     },
     {
       id: 3,
@@ -67,6 +133,28 @@ export default {
         {
           id: 0,
           name: '1',
+        },
+      ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
         },
       ],
     },
@@ -84,6 +172,28 @@ export default {
           name: '1',
         },
       ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
+        },
+      ],
     },
     {
       id: 5,
@@ -93,6 +203,28 @@ export default {
         {
           id: 0,
           name: '1',
+        },
+      ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
         },
       ],
     },
@@ -106,6 +238,28 @@ export default {
           name: '1',
         },
       ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
+        },
+      ],
     },
     {
       id: 7,
@@ -115,6 +269,28 @@ export default {
         {
           id: 0,
           name: '1',
+        },
+      ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
         },
       ],
     },
@@ -130,6 +306,28 @@ export default {
           name: '1',
         },
       ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
+        },
+      ],
     },
     {
       id: 9,
@@ -141,6 +339,28 @@ export default {
           name: '1',
         },
       ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
+        },
+      ],
     },
     {
       id: 10,
@@ -150,6 +370,28 @@ export default {
         {
           id: 0,
           name: '1',
+        },
+      ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
         },
       ],
     },
@@ -167,6 +409,28 @@ export default {
           name: '1',
         },
       ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
+        },
+      ],
     },
     {
       id: 12,
@@ -176,6 +440,28 @@ export default {
         {
           id: 0,
           name: '1',
+        },
+      ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
         },
       ],
     },
@@ -197,6 +483,28 @@ export default {
           name: '1',
         },
       ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
+        },
+      ],
     },
     {
       id: 14,
@@ -214,6 +522,28 @@ export default {
         {
           id: 0,
           name: '1',
+        },
+      ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
         },
       ],
     },
@@ -235,6 +565,28 @@ export default {
           name: '1',
         },
       ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
+        },
+      ],
     },
 
     // LOWER LEFT
@@ -252,6 +604,28 @@ export default {
           name: '1',
         },
       ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
+        },
+      ],
     },
     {
       id: 17,
@@ -265,6 +639,28 @@ export default {
         {
           id: 0,
           name: '1',
+        },
+      ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
         },
       ],
     },
@@ -282,6 +678,28 @@ export default {
           name: '1',
         },
       ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
+        },
+      ],
     },
     {
       id: 19,
@@ -291,6 +709,28 @@ export default {
         {
           id: 0,
           name: '1',
+        },
+      ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
         },
       ],
     },
@@ -304,6 +744,28 @@ export default {
           name: '1',
         },
       ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
+        },
+      ],
     },
     {
       id: 21,
@@ -313,6 +775,28 @@ export default {
         {
           id: 0,
           name: '1',
+        },
+      ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
         },
       ],
     },
@@ -326,6 +810,28 @@ export default {
           name: '1',
         },
       ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
+        },
+      ],
     },
     {
       id: 23,
@@ -335,6 +841,28 @@ export default {
         {
           id: 0,
           name: '1',
+        },
+      ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
         },
       ],
     },
@@ -350,6 +878,28 @@ export default {
           name: '1',
         },
       ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
+        },
+      ],
     },
     {
       id: 25,
@@ -359,6 +909,28 @@ export default {
         {
           id: 0,
           name: '1',
+        },
+      ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
         },
       ],
     },
@@ -372,6 +944,28 @@ export default {
           name: '1',
         },
       ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
+        },
+      ],
     },
     {
       id: 27,
@@ -383,6 +977,28 @@ export default {
           name: '1',
         },
       ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
+        },
+      ],
     },
     {
       id: 28,
@@ -392,6 +1008,28 @@ export default {
         {
           id: 0,
           name: '1',
+        },
+      ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
         },
       ],
     },
@@ -409,6 +1047,28 @@ export default {
           name: '1',
         },
       ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
+        },
+      ],
     },
     {
       id: 30,
@@ -424,6 +1084,28 @@ export default {
           name: '1',
         },
       ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
+        },
+      ],
     },
     {
       id: 31,
@@ -437,6 +1119,28 @@ export default {
         {
           id: 0,
           name: '1',
+        },
+      ],
+      crown: [
+        {
+          id: 0,
+          name: '1',
+        },
+        {
+          id: 1,
+          name: '2',
+        },
+        {
+          id: 2,
+          name: '3',
+        },
+        {
+          id: 3,
+          name: '4',
+        },
+        {
+          id: 4,
+          name: '5',
         },
       ],
     },

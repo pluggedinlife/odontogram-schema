@@ -13,8 +13,14 @@ defineProps({
 let upperArch = [];
 let lowerArch = [];
 
-onRenderTracked(() => {
+function buildOperativeOdontogramSchema() {
   const list = Object.assign({}, teethList);
+  return list;
+}
+
+onRenderTracked(() => {
+  // const list = Object.assign({}, teethList);
+  const list = buildOperativeOdontogramSchema();
   resetLocalData();
   list.permanent.forEach((item) => {
     if (item.id <= 15) {
@@ -34,22 +40,22 @@ function resetLocalData() {
 
 <template>
   <div
-    class="flex flex-col border border-gray-500 rounded-lg overflow-auto"
+    class="flex flex-col border border-gray-500 rounded-lg overflow-auto p-1"
     :class="devMode ? 'bg-blue-100 ' : ''"
   >
     <div class="m-4 font-semibold" :class="devMode ? 'bg-orange-100 ' : ''">
       <span>{{ title }}</span>
     </div>
 
-    <div class="flex flex-col items-center min-w-[1200px]">
+    <div class="flex flex-col">
       <!-- UPPER ARCH -->
-      <div>
+      <div class="flex flex-col items-center">
         <div class="w-full flex justify-between">
-          <span>LX</span>
-          <span>RX</span>
+          <span>L</span>
+          <span>R</span>
         </div>
 
-        <div class="flex flex-row-reverse">
+        <div class="flex flex-row-reverse h-60">
           <ElementSchema
             class="border border-gray-500 h-40 w-20"
             v-for="(element, index) in upperArch"
@@ -65,8 +71,8 @@ function resetLocalData() {
       <div class="border border-b mx-2 border-gray-400 my-4" />
 
       <!-- LOWER ARCH -->
-      <div>
-        <div class="flex">
+      <div class="flex flex-col items-center">
+        <div class="flex h-60">
           <ElementSchema
             class="border border-gray-500 h-40 w-20"
             v-for="(element, index) in lowerArch"
@@ -80,8 +86,8 @@ function resetLocalData() {
         </div>
 
         <div class="w-full flex justify-between">
-          <span>LX</span>
-          <span>RX</span>
+          <span>L</span>
+          <span>R</span>
         </div>
       </div>
     </div>

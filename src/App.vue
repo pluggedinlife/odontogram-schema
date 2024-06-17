@@ -53,12 +53,14 @@ const element = {
       :isPermanent="true"
       notation="fdi"
     />
-    <!-- <ElementSchema
-      class="border border-gray-500 h-80 w-60"
-      :element="element"
-      :isPermanent="true"
-      :notation="uns"
-      :devMode="true"
-    /> -->
+    <!-- <div class="h-screen bg-gray-400 p-24">
+      <ElementSchema
+        class="border border-gray-500"
+        :element="element"
+        :isPermanent="true"
+        :notation="'uns'"
+        :devMode="true"
+      />
+    </div> -->
   </div>
 </template>
